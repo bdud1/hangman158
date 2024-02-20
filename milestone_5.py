@@ -2,7 +2,7 @@ import random
 
 
 ## Initialise list of favourite fruits and assign to word_list
-word_list = ["mango", "strawberry", "peach", "passion fruit", "pineapple"]
+word_list = ["mango", "strawberry", "peach", "passion fruit", "pineapple", "cherry"]
 
 
 ## Define the Hangman class
